@@ -60,7 +60,7 @@ $cakeDescription = 'CakePHP: the rapid development php framework';
                 </li>
                 <li class="nav-item ">
                     
-                    <?= $this->Html->link(__('DashBoard'), ['controller' => 'Pages', 'action' => 'display'], ['dashboard']) ?>
+                    <a href="./dashboard">dashboard</a>
                 </li>
             </ul>
         </div>

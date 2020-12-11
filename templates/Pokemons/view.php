@@ -11,12 +11,13 @@
 
 
 <div class="Row">
+  <div class="G3_display">
+    <div class="G3_rightnleft">
     <?= $this->Html->image($pokemon->main_sprite); ?>
+    
+    </div>
+    <div class="G3_rightnleft">
     <h3><?= h($pokemon->name) ?></h3>
-    
-    
-    
-
     <h3 class="card__type <?= $pokemon->first_type ?>">
             <?= $pokemon->first_type ?>
         </h3>
@@ -25,6 +26,8 @@
         <h3 class="card__second_type <?= $pokemon->second_type ?>">
             <?= $pokemon->second_type ?>
         </h3>
+    
+      
         <?php endif; ?>
 
         <table>
@@ -39,6 +42,8 @@
                         
                 <?php endforeach; ?>
         </table>
+    </div>
+    </div>
         
 
    
