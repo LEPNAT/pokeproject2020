@@ -3,9 +3,10 @@
 
 (A renseigner)
 - Groupe N° :
-- Nom Prenom
-- Nom Prenom
-- Nom Prenom
+-CARPENTIER Nicolas
+-ENAULT Cassie
+-FLEURY Alex
+-LEPRON Nathan
 
 
 ## Récupération du projet
