@@ -1,12 +1,21 @@
 # Projet Web Iut Info module Web 2020
 
 
+<<<<<<< HEAD
 (A renseigner)
 - Groupe N° :
 -CARPENTIER Nicolas
 -ENAULT Cassie
 -FLEURY Alex
 -LEPRON Nathan
+=======
+
+- Groupe N° 3 :
+- CARPENTIER Nicolas
+- ENAULT Cassie
+- FLEURY Alex
+- LEPRON Nathan 
+>>>>>>> 798cb2093a95226c6a7190fb976f4ff208c15366
 
 
 ## Récupération du projet
