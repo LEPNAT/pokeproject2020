@@ -48,9 +48,7 @@ class PagesController extends AppController
         if (!$path) {
             return $this->redirect('/');
         }
-        if (in_array('..', $path, true) || in_array('.', $path, true)) {
-            throw new ForbiddenException();
-        }
+        
         $page = $subpage = null;
 
         if (!empty($path[0])) {

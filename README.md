@@ -2,6 +2,7 @@
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 (A renseigner)
 - Groupe N° :
 -CARPENTIER Nicolas
@@ -9,13 +10,18 @@
 -FLEURY Alex
 -LEPRON Nathan
 =======
+=======
+>>>>>>> 798cb20 (Update README.md)
 
 - Groupe N° 3 :
 - CARPENTIER Nicolas
 - ENAULT Cassie
 - FLEURY Alex
 - LEPRON Nathan 
+<<<<<<< HEAD
 >>>>>>> 798cb2093a95226c6a7190fb976f4ff208c15366
+=======
+>>>>>>> 798cb20 (Update README.md)
 
 
 ## Récupération du projet
